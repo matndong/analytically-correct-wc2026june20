@@ -6,7 +6,6 @@ XGBoost-powered match prediction engine for the 2026 FIFA World Cup.
 Compares model probabilities vs FanDuel/DraftKings odds to find edges.
 Exports branded visualizations + Power BI CSV every matchday.
 
-Disclaimer:"This repository serves as a showcase for the Extended Analytics project. The core XGBoost predictive engine and proprietary data pipelines are not open-source and remain the exclusive intellectual property of the author."
 ---
 
 ## 🎙️ About the Show
@@ -140,3 +139,5 @@ Add to `TEAM_PROFILES` dictionary:
 ---
 
 *Built with XGBoost, pandas, matplotlib | Host: Mathieu A. Ndong | MSBA LeBow College of Business*
+
+Disclaimer: "This repository serves as a showcase for the Extended Analytics project. The core XGBoost predictive engine and proprietary data pipelines are not open-source and remain the exclusive intellectual property of the author."
