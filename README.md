@@ -1,4 +1,4 @@
-# ⚽ Analytically Correct — WC2026 Prediction Engine
+# ⚽ Extended Analytics — WC2026 Prediction Engine
 
 > *"Not politically correct. Analytically correct."*
 
@@ -10,13 +10,11 @@ Exports branded visualizations + Power BI CSV every matchday.
 
 ## 🎙️ About the Show
 
-**Analytically Correct** is a prediction accountability podcast.
-We make explicit predictions before every game, then score who was right — our model, the media, or the betting market.
+**Extended Analytics** is a prediction accountability podcast.
+I make explicit predictions before every game, then score who is right — my model, the media, or the betting market.
 
-- 📺 YouTube: @analyticallycorrect
-- 🎵 Spotify: @analyticallycorrect
-- 🐦 X/Twitter: @analyticallyco
-- 📱 TikTok: @analyticallycorrect
+- 🎵 Spotify: @extendedanalytics
+- 📱 TikTok: @extendedanalytics
 
 ---
 
